@@ -1,5 +1,5 @@
 _repo: -And-So-Ad-Infinitum-The-Life-of-the-Insects-An-Entomological-Review-in-Three-Acts-a-Prologue__61420
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Selver, Paul
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '50307'
     url: http://www.gutenberg.org/2009/agents/50307
     wikipedia: https://en.wikipedia.org/wiki/Paul_Selver
+covers:
+- cover_type: archival
+  image_path: 61420-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Čapek, Josef
@@ -51,6 +54,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42120
     wikipedia: https://en.wikipedia.org/wiki/Clifford_Bax
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61420#-And-So-Ad-Infinitum-The-Life-of-the-Insects-An-Entomological-Review-in-Three-Acts-a-Prologue_
 gutenberg_issued: '2020-02-16'
 gutenberg_type: Text
 identifiers:
