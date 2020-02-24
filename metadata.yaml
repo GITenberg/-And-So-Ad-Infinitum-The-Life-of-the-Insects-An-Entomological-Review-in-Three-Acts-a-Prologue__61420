@@ -1,0 +1,69 @@
+_repo: -And-So-Ad-Infinitum-The-Life-of-the-Insects-An-Entomological-Review-in-Three-Acts-a-Prologue__61420
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Selver, Paul
+    aliases:
+    - Selver, Percy Paul
+    - Selver, P. (Paul)
+    birthdate: 1888
+    deathdate: 1970
+    gutenberg_agent_id: '50307'
+    url: http://www.gutenberg.org/2009/agents/50307
+    wikipedia: https://en.wikipedia.org/wiki/Paul_Selver
+creator:
+  authors:
+  - agent_name: Čapek, Josef
+    alias: Capek, Josef
+    birthdate: 1887
+    deathdate: 1945
+    gutenberg_agent_id: '51429'
+    url: http://www.gutenberg.org/2009/agents/51429
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Josef_%C4%8Capek
+    - https://cs.wikipedia.org/wiki/Josef_%C4%8Capek
+  - agent_name: Čapek, Karel
+    aliases:
+    - Chapek, Karel
+    - Capek, Karel
+    birthdate: 1890
+    deathdate: 1938
+    gutenberg_agent_id: '4823'
+    url: http://www.gutenberg.org/2009/agents/4823
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karel_Capek
+    - https://de.wikipedia.org/wiki/Karel_%C4%8Capek
+    - https://cs.wikipedia.org/wiki/Karel_%C4%8Capek
+  editors:
+  - agent_name: Playfair, Nigel
+    aliases:
+    - Playfair, Nigel Ross
+    - Playfair, Nigel, Sir
+    birthdate: 1874
+    deathdate: 1934
+    gutenberg_agent_id: '50306'
+    url: http://www.gutenberg.org/2009/agents/50306
+    wikipedia: https://en.wikipedia.org/wiki/Nigel_Playfair
+  - agent_name: Bax, Clifford
+    birthdate: 1886
+    deathdate: 1962
+    gutenberg_agent_id: '42120'
+    url: http://www.gutenberg.org/2009/agents/42120
+    wikipedia: https://en.wikipedia.org/wiki/Clifford_Bax
+description: ''
+gutenberg_issued: '2020-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Czech drama -- Translations into English'
+- !lcsh 'Insects -- Drama'
+- !lcc 'PG'
+- GITenberg
+title: "'And So Ad Infinitum' (The Life of the Insects)\r\nAn Entomological Review,\
+  \ in Three Acts, a Prologue and an Epilogue"
+url: http://www.gutenberg.org/ebooks/61420
